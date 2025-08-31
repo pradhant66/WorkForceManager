@@ -1,2 +1,3 @@
 # WorkForceManager
 The WorkForce-Manager Application is a comprehensive solution for handling employee and department information, showcasing the integration of enterprise-grade technologies with modern web frameworks. It features a responsive React frontend paired with a scalable Spring Boot backend, offering a smooth user experience with secure authentication, CRUD operations, interactive data visualization, and RESTful API services.
+It features a responsive React frontend paired with a scalable Spring Boot backend, offering a smooth user experience with secure authentication, CRUD operations, interactive data visualization, and RESTful API services.
